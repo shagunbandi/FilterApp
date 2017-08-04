@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filterer/ViewController.swift"
+            timestampString = "523091912.851523"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.newImage.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImage&gt;"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523088926.366585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.newImage.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImage&gt;"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523088926.366777"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Filterer.ViewController"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523088926.366869"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Filterer.ViewController&gt;"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523088926.366951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filterer/ViewController.swift"
+            timestampString = "523583224.873705"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "526"
+            endingLineNumber = "526"
+            landmarkName = "onFilterCooler(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filterer/ViewController.swift"
+            timestampString = "523583224.873705"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "291"
+            endingLineNumber = "291"
+            landmarkName = "setImages(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filterer/ViewController.swift"
+            timestampString = "523569361.707655"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "onSlider(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filterer/ViewController.swift"
+            timestampString = "523551435.60857"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.scrollView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIScrollView&gt;"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523551435.745122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.scrollView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIScrollView&gt;"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523551435.745317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Filterer.ViewController"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523551435.745411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "717">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filterer.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Filterer.ViewController&gt;"
+                  moduleName = "Filterer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shagunbandi/xcode/Filterer/Filterer/ViewController.swift"
+                  timestampString = "523551435.745497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
